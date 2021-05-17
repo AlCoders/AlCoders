@@ -1,6 +1,6 @@
 -  **👀  Interested in learning new tech??**
-- **🌱 Want to Contribute in the community**
-- **😎 Want to  Problem Solver??**
+- **🌱 Want to Contribute to the community??**
+- **😎 Want to become a Problem Solver??**
 
 
 ## Lots of Questions But One Answer 🎉:
@@ -8,7 +8,7 @@
 <img src="images/Black Red and Blue Modern Fashion Logo (3).gif">
 
 
-#### **A Community that to encourage coding culture and technology for befiniting your learning and creativity**
+#### **A Community that encourage coding culture and technology for benifiting your Learning and Creativity.**
 ***
 
 ## **Alcoders Activities:**
@@ -20,7 +20,7 @@ AlCoders Starting Activities **(Learn, Create and Contribute)**
 
  💎 **Competitive Coding**
 
- 💎 **FOSS contributions** 
+ 💎 **FOSS Contributions** 
 
  💎 **Discovering new technology, PL's**
  
